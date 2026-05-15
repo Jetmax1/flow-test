@@ -1,0 +1,19 @@
+# BizFlow - Python Dependencies
+
+# Web Framework
+flask==3.0.3
+flask-cors==4.0.1
+
+# Streamlit UI
+streamlit==1.35.0
+
+# Google Gemini LLM
+google-generativeai==0.7.2
+
+# MongoDB
+
+# Environment variables
+python-dotenv==1.0.1
+
+# HTTP requests (for Streamlit → Flask communication)
+requests==2.32.3
